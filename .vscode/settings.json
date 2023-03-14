@@ -1,0 +1,10 @@
+{
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint":true, // Sob Kichu k se fix korbe eslint er maddhome
+        "source.fixAll.tslint":true, // Sob Kichu k se fix korbe tslint er maddhome
+        "source.organizeImports": true  // Imports gula k sajiye likhbe
+    },
+    "javascript.validate.enable": false, // Jehutu eslint er upore vorosha korchi so js validation off
+    "typescript.validate.enable": false
+}
